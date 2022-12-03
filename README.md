@@ -4,6 +4,6 @@ Responsive landing page. Implemented hamburger menu, responsive gallery, JavaScr
 
 Technologies: HTML, CSS, Sass (SCSS), BEM.
 
-Figma design
+[Figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3&t=n3J43mfavwYAirPF-0)
 
-https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3&t=n3J43mfavwYAirPF-0
+[DEMO](https://maxshylo.github.io/miami-landing/)

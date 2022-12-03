@@ -1,4 +1,4 @@
-Landing page for Miami Condo Kings
+# Landing page for Miami Condo Kings
 
 Responsive landing page. Implemented hamburger menu, responsive gallery, JavaScript form validation.
 
